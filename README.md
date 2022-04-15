@@ -18,7 +18,7 @@ If you find what I'm making useful and would like to support me, I've included a
 
 ### Get in Touch
 
-<img href="https://discord.com/users/138743774284218368" height="32" width="32" src="https://simpleicons.org/icons/discord.svg" /> <img href="https://steamcommunity.com/id/frofoo/" height="32" width="32" src="https://simpleicons.org/icons/steam.svg" />
+[<img href="https://discord.com/users/138743774284218368" height="32" width="32" src="https://simpleicons.org/icons/discord.svg" />](https://discord.com/users/138743774284218368) <img href="https://steamcommunity.com/id/frofoo/" height="32" width="32" src="https://simpleicons.org/icons/steam.svg" />
 
 
 ### Support me
