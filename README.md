@@ -16,7 +16,7 @@ If you find what I'm making useful and would like to support me, I've included a
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neatodev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### Get in Touch
+### Contact
 
 [<img href="https://discord.com/users/138743774284218368" height="32" width="32" src="https://simpleicons.org/icons/discord.svg" />](https://discord.com/users/138743774284218368) [<img href="https://steamcommunity.com/id/frofoo/" height="32" width="32" src="https://simpleicons.org/icons/steam.svg" />](https://steamcommunity.com/id/frofoo/)
 
