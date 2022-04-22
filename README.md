@@ -21,6 +21,4 @@ If you find what I'm making useful and would like to support me, I've included a
 [<img href="https://discord.com/users/138743774284218368" height="32" width="32" src="https://simpleicons.org/icons/discord.svg" />](https://discord.com/users/138743774284218368) [<img href="https://steamcommunity.com/id/frofoo/" height="32" width="32" src="https://simpleicons.org/icons/steam.svg" />](https://steamcommunity.com/id/frofoo/)
 
 
-### Support me
-
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=LG7YTKP4JYN5S)
